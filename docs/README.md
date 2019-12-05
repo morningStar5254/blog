@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /docs/.vuepress/public/cat.png
+heroImage: /cat.png
 heroText: blog
 tagline: 博客示例
 actionText: 快速上手 →
